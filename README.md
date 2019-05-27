@@ -7,6 +7,9 @@ This code base for Grab AI Challenge. Am particpating in two challenges
 
 2- Traffic Management (How may we improve the traffic congestion for Southeast Asia's roads by leveraging Grab's booking demand data)
 
+(I will be uploading code on 17 June 2019)
+
 Challenge Deadline - 17 June 2019
 Shorlisted candidate - 24 June 2019
 Demo Day - 2 July 2019
+
